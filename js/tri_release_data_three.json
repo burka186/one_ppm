@@ -103,7 +103,7 @@
     "state":"TX",
     "zipcode":77536,
     "latitude":29.731331,
-    "longitude":95.10771,
+    "longitude":-95.10771,
     "total_release":1770,
     "radius":""
   },
@@ -511,7 +511,7 @@
     "state":"DE",
     "zipcode":197060320,
     "latitude":39.589673,
-    "longitude":39.589673,
+    "longitude":-75.590596,
     "total_release":123912,
     "radius":""
   },
@@ -739,7 +739,7 @@
     "state":"TX",
     "zipcode":77536,
     "latitude":29.731331,
-    "longitude":95.10771,
+    "longitude":-95.10771,
     "total_release":3000,
     "radius":""
   },
@@ -1099,7 +1099,7 @@
     "state":"DE",
     "zipcode":197060320,
     "latitude":39.589673,
-    "longitude":39.589673,
+    "longitude":-75.590596,
     "total_release":128520,
     "radius":""
   },
@@ -1279,7 +1279,7 @@
     "state":"TX",
     "zipcode":77536,
     "latitude":29.731331,
-    "longitude":95.10771,
+    "longitude":-95.10771,
     "total_release":1000,
     "radius":""
   },
@@ -1699,7 +1699,7 @@
     "state":"DE",
     "zipcode":197060320,
     "latitude":39.589673,
-    "longitude":39.589673,
+    "longitude":-75.590596,
     "total_release":127618,
     "radius":""
   },
@@ -1879,7 +1879,7 @@
     "state":"TX",
     "zipcode":77536,
     "latitude":29.731331,
-    "longitude":95.10771,
+    "longitude":-95.10771,
     "total_release":1040,
     "radius":""
   },
@@ -2251,7 +2251,7 @@
     "state":"DE",
     "zipcode":197060320,
     "latitude":39.589673,
-    "longitude":39.589673,
+    "longitude":-75.590596,
     "total_release":125282,
     "radius":""
   },
@@ -2431,7 +2431,7 @@
     "state":"TX",
     "zipcode":77536,
     "latitude":29.731331,
-    "longitude":95.10771,
+    "longitude":-95.10771,
     "total_release":2900,
     "radius":""
   },
@@ -2803,7 +2803,7 @@
     "state":"DE",
     "zipcode":197060320,
     "latitude":39.589673,
-    "longitude":39.589673,
+    "longitude":-75.590596,
     "total_release":78355,
     "radius":""
   },
@@ -2995,7 +2995,7 @@
     "state":"TX",
     "zipcode":77536,
     "latitude":29.731331,
-    "longitude":95.10771,
+    "longitude":-95.10771,
     "total_release":1539,
     "radius":""
   },
@@ -3415,7 +3415,7 @@
     "state":"DE",
     "zipcode":197060320,
     "latitude":39.589673,
-    "longitude":39.589673,
+    "longitude":-75.590596,
     "total_release":116942,
     "radius":""
   },
@@ -4111,7 +4111,7 @@
     "state":"TX",
     "zipcode":77536,
     "latitude":29.731331,
-    "longitude":95.10771,
+    "longitude":-95.10771,
     "total_release":3815,
     "radius":""
   },
@@ -4447,7 +4447,7 @@
     "state":"DE",
     "zipcode":197060320,
     "latitude":39.589673,
-    "longitude":39.589673,
+    "longitude":-75.590596,
     "total_release":132159,
     "radius":""
   },
@@ -4615,7 +4615,7 @@
     "state":"TX",
     "zipcode":77536,
     "latitude":29.731331,
-    "longitude":95.10771,
+    "longitude":-95.10771,
     "total_release":4230,
     "radius":""
   },
@@ -4963,7 +4963,7 @@
     "state":"DE",
     "zipcode":197060320,
     "latitude":39.589673,
-    "longitude":39.589673,
+    "longitude":-75.590596,
     "total_release":133091,
     "radius":""
   },
@@ -5155,7 +5155,7 @@
     "state":"TX",
     "zipcode":77536,
     "latitude":29.731331,
-    "longitude":95.10771,
+    "longitude":-95.10771,
     "total_release":5959,
     "radius":""
   },
@@ -5491,7 +5491,7 @@
     "state":"DE",
     "zipcode":197060320,
     "latitude":39.589673,
-    "longitude":39.589673,
+    "longitude":-75.590596,
     "total_release":118493,
     "radius":""
   },
@@ -5683,7 +5683,7 @@
     "state":"TX",
     "zipcode":77536,
     "latitude":29.731331,
-    "longitude":95.10771,
+    "longitude":-95.10771,
     "total_release":4530,
     "radius":""
   },
@@ -5971,7 +5971,7 @@
     "state":"DE",
     "zipcode":197060320,
     "latitude":39.589673,
-    "longitude":39.589673,
+    "longitude":-75.590596,
     "total_release":118499,
     "radius":""
   },
@@ -6475,7 +6475,7 @@
     "state":"TX",
     "zipcode":77536,
     "latitude":29.731331,
-    "longitude":95.10771,
+    "longitude":-95.10771,
     "total_release":16800,
     "radius":""
   },
@@ -6607,7 +6607,7 @@
     "state":"DE",
     "zipcode":197060320,
     "latitude":39.589673,
-    "longitude":39.589673,
+    "longitude":-75.590596,
     "total_release":115153,
     "radius":""
   },
@@ -7087,7 +7087,7 @@
     "state":"TX",
     "zipcode":77536,
     "latitude":29.731331,
-    "longitude":95.10771,
+    "longitude":-95.10771,
     "total_release":25205,
     "radius":""
   },
@@ -7207,7 +7207,7 @@
     "state":"DE",
     "zipcode":197060320,
     "latitude":39.589673,
-    "longitude":39.589673,
+    "longitude":-75.590596,
     "total_release":131975,
     "radius":""
   },
@@ -7783,7 +7783,7 @@
     "state":"DE",
     "zipcode":197060320,
     "latitude":39.589673,
-    "longitude":39.589673,
+    "longitude":-75.590596,
     "total_release":114043,
     "radius":""
   },
@@ -8347,7 +8347,7 @@
     "state":"DE",
     "zipcode":197060320,
     "latitude":39.589673,
-    "longitude":39.589673,
+    "longitude":-75.590596,
     "total_release":97717,
     "radius":""
   },
@@ -8959,7 +8959,7 @@
     "state":"DE",
     "zipcode":197060320,
     "latitude":39.589673,
-    "longitude":39.589673,
+    "longitude":-75.590596,
     "total_release":103319,
     "radius":""
   },
@@ -9511,7 +9511,7 @@
     "state":"DE",
     "zipcode":197060320,
     "latitude":39.589673,
-    "longitude":39.589673,
+    "longitude":-75.590596,
     "total_release":62789,
     "radius":""
   },
@@ -10039,7 +10039,7 @@
     "state":"DE",
     "zipcode":197060320,
     "latitude":39.589673,
-    "longitude":39.589673,
+    "longitude":-75.590596,
     "total_release":68768,
     "radius":""
   },
@@ -10543,7 +10543,7 @@
     "state":"DE",
     "zipcode":197060320,
     "latitude":39.589673,
-    "longitude":39.589673,
+    "longitude":-75.590596,
     "total_release":71589,
     "radius":""
   },
@@ -11023,7 +11023,7 @@
     "state":"DE",
     "zipcode":197060320,
     "latitude":39.589673,
-    "longitude":39.589673,
+    "longitude":-75.590596,
     "total_release":38542,
     "radius":""
   },
@@ -11551,7 +11551,7 @@
     "state":"DE",
     "zipcode":197060320,
     "latitude":39.589673,
-    "longitude":39.589673,
+    "longitude":-75.590596,
     "total_release":37460,
     "radius":""
   },
@@ -12103,7 +12103,7 @@
     "state":"DE",
     "zipcode":197060320,
     "latitude":39.589673,
-    "longitude":39.589673,
+    "longitude":-75.590596,
     "total_release":50060,
     "radius":""
   },
@@ -12583,7 +12583,7 @@
     "state":"DE",
     "zipcode":197060320,
     "latitude":39.589673,
-    "longitude":39.589673,
+    "longitude":-75.590596,
     "total_release":43800,
     "radius":""
   },
@@ -13027,7 +13027,7 @@
     "state":"DE",
     "zipcode":197060320,
     "latitude":39.589673,
-    "longitude":39.589673,
+    "longitude":-75.590596,
     "total_release":56155,
     "radius":""
   },
@@ -13483,7 +13483,7 @@
     "state":"DE",
     "zipcode":197060320,
     "latitude":39.589673,
-    "longitude":39.589673,
+    "longitude":-75.590596,
     "total_release":57564,
     "radius":""
   },
@@ -14371,7 +14371,7 @@
     "state":"DE",
     "zipcode":197060320,
     "latitude":39.589673,
-    "longitude":39.589673,
+    "longitude":-75.590596,
     "total_release":47277,
     "radius":""
   },
@@ -14803,7 +14803,7 @@
     "state":"DE",
     "zipcode":197060320,
     "latitude":39.589673,
-    "longitude":39.589673,
+    "longitude":-75.5905963,
     "total_release":49262,
     "radius":""
   },

@@ -19,19 +19,18 @@
 <body>
 	<section id="map" class="container" ng-app="vcMap" ng-controller="MapController">
 		<div id="year-wrapper" class="row">
-			<div id="vis-title">US Vinyl Chloride Reported Emissions, {{year}}</div>
+			<div id="vis-title" ng-model="year">US Vinyl Chloride Reported Emissions, {{year}}</div>
 			<h4 class="margins">Since 1987, the EPA's <a href="http://www.epa.gov/toxics-release-inventory-tri-program" target="_blank">Toxics Release Inventory</a> has kept records of all vinyl chloride emissions. Facilities that either produce, fabricate, or dispose of vinyl chloride are required to report any release of the chemical.<br><br>These emissions range from the nominal (0.02 pounds) to the catastrophic (214,000 pounds).</h4>
+			<!-- I put ng-model="year" here but still not sure if that's the right thing to do -->
 			<input id="slider" class="center-block" type="range" min=1987 max=2014 ng-model="year" width=200>
 	    	<div class="year-readout col-xs-5">1987</div>
 	    	<div class="year-readout col-xs-5">2014</div>
-	    	<!-- <h2 id="year-readout">The year is: {{year}}</h2> -->
     	</div>
-<!-- 		<div id="map-container" class="row" ng-model="map">
-			
-		</div> -->
+
 		<!-- the draw-map element is from the drawMap directive created in controllers.js-->
 		<div id="map-container">
-			<draw-map ng-model="year"></draw-map>
+			<!-- again...not sure if my syntax is right here... it draws the map based on the directive but I don't know if I need to say ng-model="year" or if I need to say something else to get it to pass in the year data from the slider?? -->
+			<div draw-map ng-model="year"></div>
 		</div>
 	</section>
 	<script type="text/javascript" src="js/jquery-min.js"></script>
