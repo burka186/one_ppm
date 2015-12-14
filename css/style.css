@@ -1,0 +1,66 @@
+@font-face {
+	font-family: Muncie;
+	src: url('fonts/Muncie.ttf')
+		 format('truetype');
+}
+
+@font-face {
+	font-family: Pigeon;
+	src: url('fonts/Pigeon.otf')
+		 format('opentype');
+}
+
+h4 {
+	font-family: Pigeon;
+}
+
+p {
+	font-family: Pigeon;
+}
+
+a {
+	color: rgba(78,73,29,1.0);
+}
+
+a:hover {
+	color: rgba(224,44,30,1.0);
+}
+
+.margins {
+  margin-left: 5%;
+  margin-right: 5%;
+}
+
+#map {
+	background-color: #ddd;
+	position: relative;
+	padding-top: 50px;
+	width: 100%;
+	height: 100%;
+}
+
+
+#vis-title {
+	font-family: Muncie;
+	font-size: 5em;
+	color: rgba(224,44,30,1.0);
+	margin-left: 5%;
+}
+
+#slider {
+	width: 50%;
+	margin-left: 6%;
+	margin-top: 2%;
+}
+
+.year-readout {
+	margin-left: 5%;
+	font-family: Muncie;
+	font-size: 2.5em;
+	color: rgba(78,73,29,1.0);
+	display: inline-block;
+}
+
+.emphasis {
+	font-weight: bold;
+}

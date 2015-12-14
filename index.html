@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8"><meta>
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta name="description" content="">
+    <meta name="author" content="Ava Burke">
+    <!-- <link rel="icon" href="../../favicon.ico"> -->
+    <title>One Part Per Million</title>
+    <script src="//d3js.org/d3.v3.min.js" charset="utf-8"></script>
+	<script src="//d3js.org/topojson.v1.min.js"></script>
+	<script type="text/javascript" src="node_modules/datamaps/dist/datamaps.usa.min.js"></script>
+	<script type="text/javascript" src="lib/angular/angular.min.js"></script>
+	<script type="text/javascript" src="js/controllers.js"></script>
+	<link rel="stylesheet" href="css/normalize.min.css">
+	<link rel="stylesheet" type="text/css" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css">
+	<link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+	<section id="map" class="container" ng-app="vcMap" ng-controller="MapController">
+		<div id="year-wrapper" class="row">
+			<div id="vis-title">US Vinyl Chloride Reported Emissions, {{year}}</div>
+			<h4 class="margins">Since 1987, the EPA's <a href="http://www.epa.gov/toxics-release-inventory-tri-program" target="_blank">Toxics Release Inventory</a> has kept records of all vinyl chloride emissions. Facilities that either produce, fabricate, or dispose of vinyl chloride are required to report any release of the chemical.<br><br>These emissions range from the nominal (0.02 pounds) to the catastrophic (214,000 pounds).</h4>
+			<input id="slider" class="center-block" type="range" min=1987 max=2014 ng-model="year" width=200>
+	    	<div class="year-readout col-xs-5">1987</div>
+	    	<div class="year-readout col-xs-5">2014</div>
+	    	<!-- <h2 id="year-readout">The year is: {{year}}</h2> -->
+    	</div>
+<!-- 		<div id="map-container" class="row" ng-model="map">
+			
+		</div> -->
+		<!-- the draw-map element is from the drawMap directive created in controllers.js-->
+		<div id="map-container">
+			<draw-map ng-model="year"></draw-map>
+		</div>
+	</section>
+	<script type="text/javascript" src="js/jquery-min.js"></script>
+	<!-- <script type="text/javascript" src="js/map.js"></script>
+	 -->
+</body>
+</html>
